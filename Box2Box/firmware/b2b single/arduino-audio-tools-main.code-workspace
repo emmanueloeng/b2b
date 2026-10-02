@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/arduino-audio-tools-main/arduino-audio-tools-main"
+		},
+		{
+			"name": "B2B Single Box",
+			"path": "../B2B Single Box"
+		},
+		{
+			"name": "b2b single",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
